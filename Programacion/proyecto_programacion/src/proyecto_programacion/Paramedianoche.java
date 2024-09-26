@@ -9,6 +9,7 @@ public class Paramedianoche {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
+		double hora, minutos, 
 		System.out.println("Introdice la hora actual con formato HH:MM")
 		String horaString = scan.nextLine();
 		int hora = Integer.parsetInt();
