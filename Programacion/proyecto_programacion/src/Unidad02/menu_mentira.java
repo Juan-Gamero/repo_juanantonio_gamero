@@ -13,7 +13,7 @@ public class menu_mentira {
 		System.out.print(" 4. Cerrar programa:");
 		int opcion = scan.nextInt();
 		scan.close();
-				if (opcion  == 1) {
+/*				if (opcion  == 1) {
 					System.out.println("Comprimiendo archivo...");
 				} else if (opcion == 2){
 					System.out.println("Eliminando archivo...");
@@ -23,7 +23,7 @@ public class menu_mentira {
 					System.out.println("Cerrando programa");
 				} else {
 					System.out.println("Hasta la proxima");	
-				}
+*/				}
 	}
-
 }
+
